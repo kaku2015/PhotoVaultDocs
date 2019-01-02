@@ -47,7 +47,7 @@
 - **Q: It shows "The account has been bound with another device, please unbind first."**
 - A: The same account can only log in on the same device at the same time. The abnormal brushing can causes the IMEI to change, please unbind it before flashing or logging in on other devices.
 
-- **Q: After re-entering the PrivacySafe, the encrypted files, hidden applications, etc. could not be found.**
+- **Q: After re-entering the PrivacySafe, the encrypted files etc. could not be found.**
 - A: Please confirm the following points:
 </br>1. If you reinstall the app after uninstalling, make sure the unlock password is the same as before.
 </br>2. If you sign up for an account, confirm that the login account is unique.
