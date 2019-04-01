@@ -9,6 +9,13 @@
 - **Q: Why does the photo still exist in the phone album after it is added to the PrivacySafe.**
 - A: Some mobile phones have a system built-in cloud synchronization services, such as Huawei, Xiaomi and so on. When you add a photo or video to the PrivacySafe, the source file will be automatically deleted by the PrivacySafe. However, when cloud services are turned on and allow automatic synchronization, they are automatically recovered from the phone cloud. After adding photos or videos to the PrivacySafe, go to the system album and wait a few seconds, when the files are restored, manually delete them.
 
+- **Q: Some photos or videos are not displayed when adding an encrypted file**
+- A: This problem will occur when the photo or video is not automatically scanned into the system media library.
+</br>The solution is as follows:
+</br>1. After browsing the folder where the photo or video is located, it will automatically be scanned into the system media library automatically. At this time, the photo or video will be displayed when you add it.
+</br>2. Select All File method when adding, find the path where the file is located.
+</br>3. Add by file sharing in the file manager.
+
 - **Q: "Intruder Selfie" feature does not work.**
 - A: 
 </br>1.Make sure "intruder Selfie" feature has been enabled.
