@@ -38,6 +38,8 @@
 </br>1.If your new device has installed PrivacySafe, please restore or export all files to avoid losing.
 </br>2.Copy the **.privacy_safe** folder to the root directory of your new device.
 </br>3.Start PrivacySafe.
+</br></br>IMPORTANT:
+</br>Please make sure the unlock password is the same as before.
 
 - **Q: After uninstalling the PrivacySafe, retrieve the encrypted files.**
 - A: As long as you do not delete the folder that save the encrypted files (please refer to the above question "The location of the encrypted files"), when you re-install the PrivacySafe, you can see them.
@@ -60,6 +62,7 @@
 
 - **Q: Can I retrieve the file after it is lost.**
 - A: If the encrypted file still exists, you can go to the application "settings > Restore and Export > Retrieve Lost Files" to retrieve.
+https://github.com/kaku2015/PrivacySafeDocs/blob/master/lost_file.md
 
 - **Q: How to recover files.**
 - A: Long press on the encrypted file will enter the edit mode, you can restore it by using the restore button in the action bar.
