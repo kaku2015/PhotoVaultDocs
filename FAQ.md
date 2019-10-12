@@ -1,8 +1,5 @@
 ### FAQ
 
-- **Q: How to use.**
-- A: Introduction on how to use PrivacySafe: https://youtu.be/mgA4KFnd_rc.
-
 - **Q: Forget password.**
 - A: In case you forget your password, simply enter a number 11223344 into Calculator and long press '=', then retrieve your password by entering answer of your security question.
 
